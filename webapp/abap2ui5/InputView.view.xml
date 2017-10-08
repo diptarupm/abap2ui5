@@ -14,7 +14,6 @@
     class="sapUiSmallMarginTop sapUiSmallMarginBottom sapUiSmallMarginBeginEnd" 
     width="5%" 
      />  <DatePicker width="10%" 
-    class="sapUiSmallMarginBottom" 
      />  <Text text="" 
     width="100%" 
      />  <Label text="Status" 
