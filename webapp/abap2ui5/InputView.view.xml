@@ -5,7 +5,7 @@
      />  <Input type="Text" 
     width="10%" 
      />  <Label class="sapUiSmallMarginTop sapUiSmallMarginBottom sapUiMediumMarginBeginEnd" 
-    text="To" 
+    text="to" 
      />  <Input type="Text" 
     width="10%" 
      />  <Text text="" 
